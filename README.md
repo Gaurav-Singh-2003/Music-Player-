@@ -1,2 +1,2 @@
-# Music-Player-
+# Music-Player
 A music Player with all the responsive functions like Shuffle, Repeat and Loop functions. So do check this one...
